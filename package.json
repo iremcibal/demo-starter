@@ -1,0 +1,12 @@
+{
+  "name": "demo-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node mapFilterReduce.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
