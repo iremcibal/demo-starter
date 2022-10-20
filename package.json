@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node mapFilterReduce.js"
+    "start": "node functions.js"
   },
   "keywords": [],
   "author": "",
